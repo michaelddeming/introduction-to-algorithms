@@ -162,3 +162,8 @@ value on other, typically smaller, arguments.
   - Quickly determines asymptotic runtime without drawing full recursion trees.
   - Provides a **shortcut** for many common divide-and-conquer recurrences.
   - Bridges intuition from recursion trees to formal bounds in a systematic way.
+
+## 4.6 Proof of the continuous master theorem
+
+## 4.7 Akra-Bazzi recurrences
+
